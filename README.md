@@ -1,5 +1,7 @@
 # Club-De-Programación-J-V-2020
 
+      NOTA: Los ejercicios a resolver serán considerados según tu conocimiento previo, es decir de acuerdo al semestre y carrera cursada.
+
 1.- Para resolver un laberinto se deben contemplar las siguientes restricciones:
 Se puede avanzar hacia el norte, sur, este u oste del lugar dónde te encuentres siempre y cuando no exista una barrera que te impida el paso. 
 
@@ -64,3 +66,5 @@ Ejemplo:
       3-Tres             21-Veintiuno          300-Trescientos 
       4-Cuatro           21-treinta y dos      999-Novecientos noventa y nueve
       .......           .....                  1000-mil
+      
+      
